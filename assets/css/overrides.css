@@ -1,0 +1,13 @@
+body {
+	background: #F27640;
+	color: #fff;
+}
+
+a {
+	color: #FFFF00;
+}
+
+a:hover,
+a:focus {
+	color: #FF0000;
+}
